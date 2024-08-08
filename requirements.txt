@@ -1,1 +1,1 @@
-hikari-lightbulb==3.0.0a8
+hikari-lightbulb==3.0.0a9
