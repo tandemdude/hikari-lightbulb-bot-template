@@ -43,4 +43,4 @@ USER appuser
 COPY . .
 
 # Run the application.
-CMD ["python" "-m" "bot"]
+CMD ["python", "-m", "bot"]
